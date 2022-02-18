@@ -59,7 +59,7 @@
 <br>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyssonsantos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="allyssonsantos" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyssonantos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="allyssonsantos" />
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Allyssonantos&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="Allyssonantos" />-->
 </p>
   </div>
