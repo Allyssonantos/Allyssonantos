@@ -51,7 +51,7 @@
 <h3 align="left">OS:</h3>
 <p align="left">
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img alt="Linux" src="[[https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fpt%2Fsearch%3Fq%3Dlinux&psig=AOvVaw3q_-DZklL7X7ArtqIQ9isR&ust=1654297590726000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCD2ITxj_gCFQAAAAAdAAAAABAD)](https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.png)"> ---https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 <br>
