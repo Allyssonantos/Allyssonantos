@@ -40,6 +40,12 @@ Apaixonado por tecnologia, desenvolvimento web e soluções que facilitam o dia 
 
 ---
 
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allyssonantos&theme=tokyo-night" />
+</p>
+
 ## 📊 Estatísticas
 
 <p align="center">
