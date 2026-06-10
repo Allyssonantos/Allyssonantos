@@ -13,8 +13,6 @@ Apaixonado por tecnologia, desenvolvimento web e soluções que facilitam o dia 
 
 🎓 Cursando Sistemas de Informação
 
-📡 Mais de 3 anos de experiência em Telecomunicações
-
 🖥️ Experiência em Suporte Técnico e Manutenção de Computadores
 
 🌐 Desenvolvendo aplicações web com HTML, CSS, JavaScript, PHP e MySQL
