@@ -26,11 +26,10 @@ Estudante de **Sistemas de Informação**, apaixonado por tecnologia, infraestru
 
 ---
 
-## 📂 Projetos em Destaque
-
-* 🍕 Sistema de Pizzaria Online
-* 💼 Sistemas Web com PHP e MySQL
-* 🔧 Projetos de Suporte Técnico e Infraestrutura
+* 🌐 **[Meu Portfólio Web](https://github.com/Allyssonantos/allysson-portfolio)** — Projeto pessoal com apresentação dos meus trabalhos e habilidades
+* 🍕 **Sistema de Pizzaria Online**
+* 💼 **Sistemas Web com PHP e MySQL**
+* 🔧 **Projetos de Suporte Técnico e Infraestrutura**
 
 ---
 
